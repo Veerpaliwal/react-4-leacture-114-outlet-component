@@ -1,0 +1,17 @@
+header{
+  height: 140px;
+  background-color: blue;
+}
+main{
+  min-height: 350px; 
+}
+aside{
+  background-color: red;
+}
+section{
+  background-color: yellow;
+}
+footer{
+  height: 100px;
+  background-color: green;
+}

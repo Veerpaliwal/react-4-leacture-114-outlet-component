@@ -4,7 +4,7 @@ import { Outlet } from 'react-router-dom'
 export default function Layout() {
   return (
     <>
-      <header>
+      <header >
          header
       </header>
       <main className="row">
